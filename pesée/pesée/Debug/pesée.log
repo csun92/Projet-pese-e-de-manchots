@@ -1,0 +1,78 @@
+﻿Build started 26/05/2014 11:41:23.
+     1>Project "D:\workspace\pesée\pesée\pesée.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib main.cpp mainForm.cpp
+         main.cpp
+     1>d:\workspace\pesée\pesée\Traitement.h(177): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\workspace\pesée\pesée\Traitement.h(182): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\workspace\pesée\pesée\Traitement.h(229): warning C4101: 'k' : unreferenced local variable
+     1>d:\workspace\pesée\pesée\Traitement.h(303): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\workspace\pesée\pesée\Traitement.h(319): warning C4244: '=' : conversion from 'wchar_t' to 'char', possible loss of data
+     1>d:\workspace\pesée\pesée\Traitement.h(341): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\workspace\pesée\pesée\Traitement.h(351): warning C4244: '=' : conversion from 'wchar_t' to 'char', possible loss of data
+     1>d:\workspace\pesée\pesée\Traitement.h(359): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\workspace\pesée\pesée\graphForm.h(325): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\workspace\pesée\pesée\graphForm.h(337): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'int', possible loss of data
+     1>d:\workspace\pesée\pesée\graphForm.h(343): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\workspace\pesée\pesée\graphForm.h(399): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\workspace\pesée\pesée\graphForm.h(401): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\workspace\pesée\pesée\mainForm.h(307): warning C4244: '=' : conversion from 'wchar_t' to 'char', possible loss of data
+     1>d:\workspace\pesée\pesée\mainForm.h(314): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\workspace\pesée\pesée\mainForm.h(365): warning C4244: '=' : conversion from 'wchar_t' to 'char', possible loss of data
+     1>d:\workspace\pesée\pesée\mainForm.h(623): warning C4244: 'initializing' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\workspace\pesée\pesée\mainForm.h(625): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'int', possible loss of data
+     1>d:\workspace\pesée\pesée\mainForm.h(672): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'int', possible loss of data
+     1>d:\workspace\pesée\pesée\mainForm.h(678): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+         mainForm.cpp
+     1>d:\workspace\pesée\pesée\Traitement.h(177): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\workspace\pesée\pesée\Traitement.h(182): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\workspace\pesée\pesée\Traitement.h(229): warning C4101: 'k' : unreferenced local variable
+     1>d:\workspace\pesée\pesée\Traitement.h(303): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\workspace\pesée\pesée\Traitement.h(319): warning C4244: '=' : conversion from 'wchar_t' to 'char', possible loss of data
+     1>d:\workspace\pesée\pesée\Traitement.h(341): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\workspace\pesée\pesée\Traitement.h(351): warning C4244: '=' : conversion from 'wchar_t' to 'char', possible loss of data
+     1>d:\workspace\pesée\pesée\Traitement.h(359): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\workspace\pesée\pesée\graphForm.h(325): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\workspace\pesée\pesée\graphForm.h(337): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'int', possible loss of data
+     1>d:\workspace\pesée\pesée\graphForm.h(343): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\workspace\pesée\pesée\graphForm.h(399): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\workspace\pesée\pesée\graphForm.h(401): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\workspace\pesée\pesée\mainForm.h(307): warning C4244: '=' : conversion from 'wchar_t' to 'char', possible loss of data
+     1>d:\workspace\pesée\pesée\mainForm.h(314): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\workspace\pesée\pesée\mainForm.h(365): warning C4244: '=' : conversion from 'wchar_t' to 'char', possible loss of data
+     1>d:\workspace\pesée\pesée\mainForm.h(623): warning C4244: 'initializing' : conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+     1>d:\workspace\pesée\pesée\mainForm.h(625): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'int', possible loss of data
+     1>d:\workspace\pesée\pesée\mainForm.h(672): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'int', possible loss of data
+     1>d:\workspace\pesée\pesée\mainForm.h(678): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+         Generating Code...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib Traitement.cpp
+         Traitement.cpp
+     1>d:\workspace\pesée\pesée\Traitement.h(177): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\workspace\pesée\pesée\Traitement.h(182): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\workspace\pesée\pesée\Traitement.h(229): warning C4101: 'k' : unreferenced local variable
+     1>d:\workspace\pesée\pesée\Traitement.h(303): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\workspace\pesée\pesée\Traitement.h(319): warning C4244: '=' : conversion from 'wchar_t' to 'char', possible loss of data
+     1>d:\workspace\pesée\pesée\Traitement.h(341): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\workspace\pesée\pesée\Traitement.h(351): warning C4244: '=' : conversion from 'wchar_t' to 'char', possible loss of data
+     1>d:\workspace\pesée\pesée\Traitement.h(359): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\workspace\pesée\Debug\pesée.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\workspace\pesée\pesée\lib\32-bit\msvc" nilibddc.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /ASSEMBLYRESOURCE:"Debug\pesée.graphForm.resources" /ASSEMBLYRESOURCE:"Debug\pesée.mainForm.resources" /ASSEMBLYRESOURCE:"Debug\pesée.Traitement.resources" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\workspace\pesée\Debug\pesée.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\graphForm.obj
+         Debug\main.obj
+         Debug\mainForm.obj
+         Debug\Traitement.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+     1>Traitement.obj : warning LNK4248: unresolved typeref token (0100001C) for '_DDCFile'; image may not run
+     1>mainForm.obj : warning LNK4248: unresolved typeref token (01000022) for '_DDCFile'; image may not run
+     1>main.obj : warning LNK4248: unresolved typeref token (01000022) for '_DDCFile'; image may not run
+     1>Traitement.obj : warning LNK4248: unresolved typeref token (0100001B) for '_DDCChannelGroup'; image may not run
+     1>mainForm.obj : warning LNK4248: unresolved typeref token (01000023) for '_DDCChannelGroup'; image may not run
+     1>main.obj : warning LNK4248: unresolved typeref token (01000023) for '_DDCChannelGroup'; image may not run
+     1>Traitement.obj : warning LNK4248: unresolved typeref token (01000021) for '_DDCChannel'; image may not run
+     1>mainForm.obj : warning LNK4248: unresolved typeref token (0100002D) for '_DDCChannel'; image may not run
+     1>main.obj : warning LNK4248: unresolved typeref token (01000031) for '_DDCChannel'; image may not run
+         pesée.vcxproj -> D:\workspace\pesée\Debug\pesée.exe
+     1>Done Building Project "D:\workspace\pesée\pesée\pesée.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.38

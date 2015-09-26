@@ -1,0 +1,67 @@
+  pesée.graphForm.resources - Embedded, ContainedInManifestFile, 
+  pesée.mainForm.resources - Embedded, ContainedInManifestFile, 
+  pesée.Traitement.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly pesée, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class pesée.graphForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Double**** DATA : Public
+    Double zoom : Public
+    UInt64*** NUMdatavalues : Public
+    System.Drawing.Point[][][][] curvePoints : Public
+    UInt64** NUMChannels : Public
+    UInt32* NUMGroups : Public
+    UInt32 NUMFiles : Public
+    UInt32 cGroups : Public
+    UInt32 cChannels : Public
+    UInt32 cFiles : Public
+    UInt32 cGraph : Public
+    System.Drawing.Color[] colors : Public
+    System.Collections.Generic.List`1[System.Int32] gc : Public
+Class pesée.Traitement: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Double**** DATA : Public
+    UInt64*** NUMdatavalues : Public
+    UInt64** NUMChannels : Public
+    UInt32* NUMGroups : Public
+    UInt32 NUMFiles : Public
+    Double*** parts : Public
+    Int32** numbers : Public
+    Int32* NUMParts : Public
+    Double signe : Public
+    Timestamp*** starttime : Public
+    Timestamp** partstime : Public
+    System.Collections.Generic.List`1[System.Int32][] positions : Public
+    SByte** FileName : Public
+Class pesée.mainForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Double**** DATA : Public
+    UInt64*** NUMdatavalues : Public
+    System.Drawing.Point[][][][] curvePoints : Public
+    UInt64** NUMChannels : Public
+    UInt32* NUMGroups : Public
+    UInt32 NUMFiles : Public
+    Timestamp*** starttime : Public
+    UInt32 cGroups : Public
+    UInt32 cChannels : Public
+    UInt32 cFiles : Public
+    SByte** FileName : Public
